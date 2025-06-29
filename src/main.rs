@@ -7,6 +7,6 @@
 fn main() 
 {
     // binance_ws_client_1::test_all();
-    // binance_ws_client_2::test_all();
-    okx_ws_client::test_all();
+    binance_ws_client_2::test_all();
+    // okx_ws_client::test_all();
 }
